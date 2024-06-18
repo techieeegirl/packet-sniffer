@@ -8,7 +8,4 @@ A java project that uses swing for frontend and Jpcap library to capture and mon
 1. JpCap library (jpcap.jar)
 2. JpCap.dll
 3. javax.xml.bind.jar
-## Note
-To execute, we need to add third party library dependencies that are present in "lib" directory.
-In intelliJ Idea we can add the library dependencies in project "Module" settings.
-After this we can run our "main" method under "src" directory.
+
